@@ -54,7 +54,7 @@ namespace lab01a
             return arrayofnumbers;
         }
 
-        //pucblic static 
+   
     }
     }
 
